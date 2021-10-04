@@ -1,4 +1,4 @@
-name: Sparse Checkout
+name: buildkite-sparse-checkout
 description: Checks out the git repo with sparse-checkout
 author: https://github.com/hivehr
 requirements: []
