@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+export BUILDKITE_GIT_CLONE_FLAGS="-v --filter=blob:none"
+export BUILDKITE_GIT_CLONE_MIRROR_FLAGS=${BUILDKITE_GIT_CLONE_FLAGS}
